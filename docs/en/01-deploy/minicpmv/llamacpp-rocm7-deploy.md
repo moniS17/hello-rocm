@@ -204,3 +204,9 @@ to launch with both `-m <gguf>` and `--mmproj <mmproj-gguf>`:
 > Note: building llama.cpp from source for ROCm (`-DGGML_HIP=ON -DAMDGPU_TARGETS=gfx1151`) is
 > covered step-by-step in `qwen3/llamacpp-rocm7-deploy.md`; multimodal support and the
 > `mmproj` file are the only additions needed for MiniCPM-V.
+
+
+
+### After build
+Screenshot example:
+<img width="1628" height="1598" alt="CPM-V example" src="https://github.com/user-attachments/assets/a9b69b2e-9ff5-4b5d-bc1c-9d22806f4a14" />
